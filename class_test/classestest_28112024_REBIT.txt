@@ -1,0 +1,74 @@
+Question 1
+Define a class called Vehicle. Include attributes like make, model, and year. Add an initialization method to set these attributes.
+
+Question 2
+Add a method called display_info to the Vehicle class that prints out the vehicle’s information in a nicely formatted string.
+
+Question 3
+Create a subclass of Vehicle called Car that includes additional attributes like doors and engine_type. Override the display_info method to include these new attributes.
+
+Question 4
+Write a method in the Car class to start_engine. This method should print a message that says the engine is starting, using the engine_type in the message.
+
+Question 5
+Implement a Bicycle subclass that inherits from Vehicle. Include additional attributes such as gear_count and bicycle_type.
+
+Question 6
+Create a Python class Circle. Use the __init__ method to set the radius and a method to calculate the area (use pi value from the math module).
+
+Question 7
+Define a class Rectangle with attributes length and width. Include methods to calculate the area and perimeter.
+
+Question 8
+Create a class Employee with properties name and employee_id. Include a method to print an email address, assuming it's employee_id@company.com.
+
+Question 9
+Extend the Employee class with a subclass Manager that has an additional attribute department and a method to print department details.
+
+Question 10
+Define a class ComplexNumber to represent complex numbers. Include methods to add and multiply two complex numbers.
+
+Question 11
+Create a class Book with attributes title, author, and price. Add a method to apply a discount to the price and another to format the book details as a string.
+
+Question 12
+Implement a class Flight that can keep track of airline, flight number, and the list of passengers (use passenger names).
+
+Question 13
+Add methods to the Flight class to add a passenger to the flight and to remove a passenger by name.
+
+Question 14
+Create a class Animal with an attribute species. Add a method make_sound that prints a generic sound.
+
+Question 15
+Subclass Animal with Dog and Cat classes. Override the make_sound method to print "Woof" for dogs and "Meow" for cats.
+
+Question 16
+Develop a class Calculator with methods for basic operations: add, subtract, multiply, and divide. Handle division by zero gracefully.
+
+Question 17
+Create a class WeatherForecast that has a method to add a temperature reading and another method to get the average temperature.
+
+Question 18
+Define a Polygon class with methods to calculate perimeter and area. This class should be designed to be subclassed by specific polygon types like triangles and squares.
+
+Question 19
+Implement a subclass of Polygon for Triangle. Use attributes for the sides and appropriate methods to compute area (using Heron's formula).
+
+Question 20
+Write a Square subclass of Polygon with a method override for area calculation specific to squares.
+
+Question 21
+Create a class Timer that can be used to time operations in Python. Use the time module for tracking start and end times.
+
+Question 22
+Design a Queue class using lists. Implement methods for enqueue, dequeue, and viewing the queue.
+
+Question 23
+Create a class Stack with methods for pushing, popping, and checking the size of the stack.
+
+Question 24
+Develop a MusicPlayer class with methods to play, stop, and load music tracks (simulated with print statements).
+
+Question 25
+Implement a Database class that simulates a simple database interaction with methods to connect, disconnect, and execute a query (simulated with print statements).
